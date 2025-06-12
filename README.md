@@ -29,7 +29,7 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-channel-gg?style=for-the-badge&logo=Telegram&logoColor=Ffffff&labelColor=%2326A5E4&color=212121)](https://t.me/waifupx_official)
 
 📲 Obtén Apk Editor
-[![Release](https://img.shields.io/github/v/release/WaifuPX-DG/VLC-Monet?display_name=tag&style=for-the-badge&logo=github&labelColor=21262d&color=1f6feb)](https://github.com/WaifuPX-DG/Apk-Editor-Monet/releases/latest)
+[![Release](https://img.shields.io/github/v/release/WaifuPX-DG/Apk-Editor-Monet?display_name=tag&style=for-the-badge&logo=github&labelColor=21262d&color=1f6feb)](https://github.com/WaifuPX-DG/Apk-Editor-Monet/releases/latest)
 
 [![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/Apk-Editor-Monet/total?style=for-the-badge&labelColor=%23512BD4&color=212121)](https://github.com/WaifuPX-DG/Apk-Editor-Monet/releases)
 
